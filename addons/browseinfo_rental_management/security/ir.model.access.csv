@@ -1,0 +1,16 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+bi_rental_order_user,bi_rental_order_user_name,browseinfo_rental_management.model_rental_order,,1,1,1,1
+bi_rental_order_line_user,bi_rental_order_line_user_name,browseinfo_rental_management.model_rental_order_line,,1,1,1,1
+bi_asset_serial_wrapper_user,bi_asset_serial_wrapper_user_name,browseinfo_rental_management.model_asset_serial_wrapper,,1,1,1,1
+bi_rental_history,bi_rental_history_name,browseinfo_rental_management.model_rental_history,,1,1,1,1
+acess_stock_quant,bi_acess_stock_quant,stock.model_stock_quant,,1,1,1,1
+
+access_replace_existing_product_line,bi_replace_existing_product_line,model_replace_existing_product_line,,1,1,1,1
+
+access_replace_new_product_line,bi_replace_new_product_line,model_replace_new_product_line,,1,1,1,1
+
+bi_sale_rental_order_line_user,bi_sale_rental_order_line_user_name,browseinfo_rental_management.model_sale_rental_order_line,,1,1,1,1
+access_rental_product_replace,bi_rental_product_replace,model_rental_product_replace,,1,1,1,1
+
+
+
